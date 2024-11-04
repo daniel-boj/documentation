@@ -1,4 +1,4 @@
-# Menú: {#menu}
+# Menú:
 
 La aplicación implementa un menu lateral de tipo *drawer* que se despliega al pulsar el icono de hamburguesa situado en la esquina superior derecha de la cabecera de la pantalla y se cierra volviendo a pulsar el botón o arrastrando el menú de deracha a izquierda.
 

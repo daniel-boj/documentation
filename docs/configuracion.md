@@ -1,4 +1,4 @@
-# Opciones de configuración: {#configuracion}
+# Opciones de configuración:
 
 La pantalla de configuración de la aplicación permite al usuario modificar los ajustes de la aplicación. Se accede a ella a través del menú lateral de la aplicación, pulsando en la opción *Opciones*.
 

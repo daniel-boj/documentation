@@ -1,4 +1,4 @@
-# Pantalla Estadísticas: {#estadisticas}
+# Pantalla Estadísticas:
 
 Muestra los números de uso principales de la Tarjeta Ciudadana y se divide en dos filas principales que muestran una tarjeta independiente para cada set de datos:<br>
 1. **Estadísticas Generales**:<br>

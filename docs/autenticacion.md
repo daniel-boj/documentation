@@ -1,4 +1,4 @@
-# Autenticación del usuario: {#autenticacion}
+# Autenticación del usuario:
 
 Para poder acceder a la aplicación, el usuario debe autenticarse con un nombre de usuario y una contraseña válidos para acceder a las aplicaciones de la tarjeta de Ciudadano. La autenticación se realiza mediante el servicio de autenticación de la tarjeta de Ciudadano y podrá configurarse para realizarse automáticamente mediante la autenticación biométrica del dispositivo.
 

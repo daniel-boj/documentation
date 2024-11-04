@@ -1,4 +1,4 @@
-# Vistas de gráficos: {#graficos}
+# Vistas de gráficos:
 
 Los gráficos se muestran mediante una renderización web basada en Plotly. La aplicación muestra los gráficos de uso de la tarjeta según el ámbito correspondiente a la tarjeta seleccionada desde la que se accede a la vista de gráficos. La mayor parte de enlaces, accederán directamente a la vista de gráficos seleccionada. Pero para acceder a los gráficos de movilidad, accederemos desde un menu previo.
 

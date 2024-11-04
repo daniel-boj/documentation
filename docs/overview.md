@@ -1,4 +1,4 @@
-# Pantalla Inicio: {#overview}
+# Pantalla Inicio:
 
 Muestra las estadísticas principales diarias de uso de la Tarjeta Ciudadana, un cálculo de las tendencias actuales en relación al día anterior y un enlace a los gráficos de uso de la tarjeta según ámbito.
 
