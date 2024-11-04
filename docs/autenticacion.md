@@ -2,6 +2,10 @@
 
 Para poder acceder a la aplicación, el usuario debe autenticarse con un nombre de usuario y una contraseña válidos para acceder a las aplicaciones de la tarjeta de Ciudadano. La autenticación se realiza mediante el servicio de autenticación de la tarjeta de Ciudadano y podrá configurarse para realizarse automáticamente mediante la autenticación biométrica del dispositivo.
 
+![Autenticación biométrica](./img/sshots/biometrica.png)
+
+![Pantalla de autenticación](./img/sshots/auth.png)
+
 1. Al acceder a la aplicación por primera vez, si no se ha activado en el dispositivo la autenticación biométrica, se mostrará de forma automática el diálogo estandar del dispositivo para activarla. Si el usuario no desea activarla, podrá hacerlo en cualquier momento desde la configuración del dispositivo.
 2. En el primer acceso, el usuario deberá introducir su nombre de usuario y contraseña de la Tarjeta Ciudadano de forma manual. Si la autenticación es correcta, se almacenará en el dispositivo de forma encriptada para automatizar los futuros accesos mediante la autenticación biométrica. Si el usuario intentara identificarse con la autenticación biométrica en el primer uso de la aplicación, esta le informará del error y le solicitará que se identifique de forma manual.
 3. En los accesos posteriores, el usuario podrá identificarse tanto manualmente como mediante la autenticación biométrica.

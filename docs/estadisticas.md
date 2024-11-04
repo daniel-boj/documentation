@@ -1,12 +1,18 @@
 # Pantalla Estadísticas
 
-Muestra los números de uso principales de la Tarjeta Ciudadana y se divide en dos filas principales que muestran una tarjeta independiente para cada set de datos:<br>
+Muestra los números de uso principales de la Tarjeta Ciudadana y se divide en dos filas principales que muestran una tarjeta independiente para cada set de datos.
+
+![Pantalla de estadísticas](./img/sshots/estadisticas.png)
+
 1. **Estadísticas Generales**:<br>
     1.1. **Ciudadanos registrados**: Muestra el número total de ciudadanos registrados en el servicio de Tarjeta Ciudadana. Como datos secundarios, muestra el número de ciudadanos empadronados y no empadronados.<br>
     1.2. **Uso total del bus ubrano**: Muestra el número total de viajes registrados en el bus urbano desde la implantación del servicio de Tarjeta Ciudadana. Como dato secundario, muestra el número de viajes realizados el año en curso.<br>
     1.3. **Cursos y talleres**: El dato principal muestra el número total de cursos y talleres ofrecidos desde la implantación del servico. Como dato secundario, muestra e; número total de personas inscritas en los cursos y talleres.<br>
     1.4. **Uso y recargas de bonos**: Muestra el número total de usos desde el inicio del servicio.<br>
-    1.5. **Turismo**: Muestra el número total de visitas turísticas que han hecho uso del servicio de Tarjeta Ciudadana.<br>
+    1.5. **Turismo**: Muestra el número total de visitas turísticas que han hecho uso del servicio de Tarjeta Ciudadana.
+
+![Estadísticas de movilidad](./img/sshots/estadisticas-2.png)
+
 2. **Estadísticas de uso del servicio de bus urbano**:<br>
     2.1. **Usos anuales**: Muestra el número de usos del bus urbano en el año en curso.<br>
     2.2. **Tipo de usuario**: Muestra el número de usos del bus urbano por tipo de usuario, ciudadano empadronado o no empadronado.<br>

@@ -2,6 +2,8 @@
 
 Muestra las visitas web a las principales páginas del servicio de Tarjeta Ciudadana. La vista muestra una columa con un selector de fecha y las tarjetas con la información de los distintos sitios web.
 
+![Pantalla de visitas web](./img/sshots/webviews.png)
+
 ## Tarjetas informativas:
 1. **Visitas a la web de datos de movilidad**: Muestra el número de visitas a la web de datos de movilidad en la fecha seleccionada.
 2. **Visitas a la web de actividades deportivas**: Muestra el número de visitas a la web de actividades deportivas en la fecha seleccionada.

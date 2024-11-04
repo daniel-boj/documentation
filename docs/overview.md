@@ -2,6 +2,8 @@
 
 Muestra las estadísticas principales diarias de uso de la Tarjeta Ciudadana, un cálculo de las tendencias actuales en relación al día anterior y un enlace a los gráficos de uso de la tarjeta según ámbito.
 
+![Pantalla de inicio](./img/sshots/overview.png)
+
 ## Interfaz de uso
 La vista se divide en distintas tarjetas informativas:
 1. **Tarjeta de altas diaria**: Muestra el número de altas realizadas en la tarjeta en el día actual.

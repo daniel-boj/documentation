@@ -2,6 +2,8 @@
 
 La pantalla de configuración de la aplicación permite al usuario modificar los ajustes de la aplicación. Se accede a ella a través del menú lateral de la aplicación, pulsando en la opción *Opciones*.
 
+![Pantalla de configuración](./img/sshots/configuracion.png)
+
 ## Opciones:
 1. **Identificación biométrica**: Permite seleccionar si se desea desactivar o activar la identificación biométrica para el acceso a la aplicación.
 2. **Borrado de datos**: Permite borrar los datos almacenados en la aplicación, incluyendo las credenciales de acceso.
