@@ -1,4 +1,4 @@
-# Pantalla WebViews:
+# Pantalla WebViews
 
 Muestra las visitas web a las principales páginas del servicio de Tarjeta Ciudadana. La vista muestra una columa con un selector de fecha y las tarjetas con la información de los distintos sitios web.
 
